@@ -5,4 +5,4 @@ This repository serves as a personal record of my journey in learning data struc
 The main purpose of this repository is to serve as a personal record of my progress and learning journey. It allows me to document my solutions to various LeetCode questions, providing a comprehensive collection of code implementations for future reference.
 
 ## License
-The content of this repository is licensed under the MIT License.
+The content of this repository is licensed under the Apache License 2.0.
